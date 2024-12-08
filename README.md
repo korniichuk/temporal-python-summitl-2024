@@ -55,5 +55,11 @@ Example output:
 Result: Hello World!
 ```
 
+Navigate to Temporal Web UI at http://localhost:8233 to see Temporal Workflows:
+![temporal-_-workflows.png](img/temporal-_-workflows.png "Temporal Workflows")
+
+Click on `example-workflow` Workflow ID to see Temporal Workflow History and Execution Result:
+![temporal-_-workflow_history.png](img/temporal-_-workflow_history.png "Temporal Workflow History")
+
 ## Sources
 - [Set up a local Temporal Service for development with Temporal CLI](https://learn.temporal.io/getting_started/python/dev_environment/?os=linux#set-up-a-local-temporal-development-cluster)
